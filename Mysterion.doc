@@ -1,0 +1,364 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}SimSun{\*\falt ????\'a8\'ac??};}{\f36\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@SimSun;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f47\fswiss\fcharset238\fprq2 Arial CE;}
+{\f48\fswiss\fcharset204\fprq2 Arial Cyr;}{\f50\fswiss\fcharset161\fprq2 Arial Greek;}{\f51\fswiss\fcharset162\fprq2 Arial Tur;}{\f52\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f53\fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f54\fswiss\fcharset186\fprq2 Arial Baltic;}{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \snext0 Normal;}{
+\s1\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \b\fs32\lang1033\langfe2052\kerning32\loch\f1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext0 \styrsid2783915 heading 1;}{
+\s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\i\fs28\lang1033\langfe2052\loch\f1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext0 \styrsid2783915 heading 2;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0 \fs24\lang1033\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext15 \styrsid2783915 List;}{
+\s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext16 \styrsid2783915 Body Text;}{
+\s17\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe2052\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon16 \snext17 \styrsid2783915 Byline;}}{\*\rsidtbl \rsid16665\rsid88401
+\rsid271653\rsid352222\rsid816422\rsid940514\rsid1076617\rsid1139118\rsid1145100\rsid1194276\rsid1210757\rsid1397923\rsid1537494\rsid1589172\rsid1670532\rsid1720108\rsid1731043\rsid1785848\rsid1845475\rsid2257087\rsid2767230\rsid2783915\rsid3290565
+\rsid3480027\rsid3684498\rsid3750673\rsid3817574\rsid4328669\rsid4338923\rsid4404099\rsid4405251\rsid4470730\rsid4679192\rsid4742628\rsid4853129\rsid4930418\rsid5056842\rsid5128003\rsid5315833\rsid5328416\rsid5338867\rsid5440804\rsid5643696\rsid5778478
+\rsid5898526\rsid6035030\rsid6125665\rsid6294287\rsid6443372\rsid6626346\rsid6885621\rsid6898771\rsid6974572\rsid7291962\rsid7371165\rsid7543644\rsid8202004\rsid8271633\rsid8678289\rsid8741419\rsid8801003\rsid8868696\rsid9112707\rsid9394617\rsid9516506
+\rsid9581032\rsid9634741\rsid9716611\rsid10027080\rsid10369378\rsid10503986\rsid10557428\rsid10704028\rsid10820441\rsid10975332\rsid11084136\rsid11220386\rsid11346093\rsid11360954\rsid11796886\rsid11801218\rsid11824118\rsid11875307\rsid11995055
+\rsid12332329\rsid12536627\rsid12671151\rsid12978474\rsid13054906\rsid13056423\rsid13118726\rsid13180145\rsid13316761\rsid13400002\rsid13652047\rsid13661839\rsid13789642\rsid13913514\rsid13925675\rsid14181067\rsid14365393\rsid14580413\rsid14747298
+\rsid14753644\rsid14814178\rsid14817793\rsid15009319\rsid15141870\rsid15163060\rsid15285154\rsid15537856\rsid15733622\rsid15928465\rsid16406780\rsid16605690\rsid16607433\rsid16721947}{\*\generator Microsoft Word 10.0.2627;}{\info
+{\title MYSTERION A Libretto for New Opera}{\author Greg Baker}{\operator Greg }{\creatim\yr2004\mo8\dy29\hr18\min16}{\revtim\yr2004\mo10\dy8\hr18\min28}{\version20}{\edmins127}{\nofpages7}{\nofwords1545}{\nofchars8809}{\*\company Phantom Ink}
+{\nofcharsws10334}{\vern16437}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\nolnhtadjtbl\rsidroot8678289 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain 
+\s1\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0\pararsid2783915 \b\fs32\lang1033\langfe2052\kerning32\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\ul\insrsid10975332\charrsid5440804 \hich\af1\dbch\af13\loch\f1 MYSTERION }{\ul\insrsid5440804\charrsid5440804 
+\par }{\insrsid10975332\charrsid7371165 \hich\af1\dbch\af13\loch\f1 A Libretto for New Opera.
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid5440804 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid5440804 \hich\af0\dbch\af13\loch\f0 
+Chorus main theme:
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid5440804 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 He arrived dead at spiral castle
+\par \hich\af0\dbch\af13\loch\f0 Carrying his earthly weapons of war 
+\par \hich\af0\dbch\af13\loch\f0 To seek Her elusive love in Mysterion 
+\par \hich\af0\dbch\af13\loch\f0 Beyond his \hich\af0\dbch\af13\loch\f0 burning trireme throne of death
+\par \hich\af0\dbch\af13\loch\f0 He found only the lives of those who came before.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Sealed into her eternity: false Gods of sea and sky
+\par \hich\af0\dbch\af13\loch\f0 All to Her castle stable door are called
+\par \hich\af0\dbch\af13\loch\f0 No map could prove his course where scorpions crawl
+\par \hich\af0\dbch\af13\loch\f0 Only first that he must live\hich\af0\dbch\af13\loch\f0  and die.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Go be with her, forget these tragic hours 
+\par \hich\af0\dbch\af13\loch\f0 Another vessel waits to rest your helmet and your sword}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid5440804 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 The books of old, the gilded lily flowers}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid5440804 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Beckon you to take your place among her stories yet untold.
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+So inside Her holy writ he shall remain 
+\par \hich\af0\dbch\af13\loch\f0 B\hich\af0\dbch\af13\loch\f0 eyond the wooden World from where he came
+\par \hich\af0\dbch\af13\loch\f0 To stand at last alone and plain
+\par \hich\af0\dbch\af13\loch\f0 Here: No happiness }{\insrsid10975332\charrsid16406780 \hich\af0\dbch\af13\loch\f0 need }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 be won
+\par \hich\af0\dbch\af13\loch\f0 These things have already been lost or done
+\par \hich\af0\dbch\af13\loch\f0 This is and always will be a bargain with no gain.
+\par \hich\af0\dbch\af13\loch\f0 Yet all this need not be so
+\par \hich\af0\dbch\af13\loch\f0 Since from eternity you all\hich\af0\dbch\af13\loch\f0  came
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+So think of him who has gone he could never last
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid11360954 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Who tried to }{\insrsid11360954 \hich\af0\dbch\af13\loch\f0 conquer a }{\insrsid10975332 
+\hich\af0\dbch\af13\loch\f0 wooden world
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Be him ever so brave for everything and everyone 
+\par \hich\af0\dbch\af13\loch\f0 He tried to save or murder in his own way
+\par \hich\af0\dbch\af13\loch\f0 Perhaps it was only for him alone 
+\par \hich\af0\dbch\af13\loch\f0 He sought those elusive treasures of the meager day
+\par \hich\af0\dbch\af13\loch\f0 Now love is gone, life for him is
+\par \hich\af0\dbch\af13\loch\f0 When those are things already passed away
+\par \hich\af0\dbch\af13\loch\f0 Forever into the rotting past 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid5440804 \hich\af0\dbch\af13\loch\f0 
+Mysterion
+\par }{\insrsid10503986 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Except in her I shall be 
+\par \hich\af0\dbch\af13\loch\f0 As warrior soul I do endow with all my earthly spirit will
+\par \hich\af0\dbch\af13\loch\f0 Avow I beseech and implore 
+\par \hich\af0\dbch\af13\loch\f0 Let me not pass and I shall love you forever 
+\par \hich\af0\dbch\af13\loch\f0 From life I wanted this and nothing more.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid5440804 \hich\af0\dbch\af13\loch\f0 Calliope
+
+\par }{\insrsid10503986 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 No countenance from you or worship in my hills do I require 
+\par \hich\af0\dbch\af13\loch\f0 Each had its earthly way and strange desire
+\par \hich\af0\dbch\af13\loch\f0 What now must be writ do\hich\af0\dbch\af13\loch\f0 wn is not for me to say
+\par \hich\af0\dbch\af13\loch\f0 Since }{\insrsid3817574 \hich\af0\dbch\af13\loch\f0 you}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  are already done, this is your night in day
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+So listen, you have come late to hear }{\insrsid3817574 
+\par }{\insrsid2783915 \hich\af0\dbch\af13\loch\f0 A}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 rriving dead without the spirit of the world inside your loins}{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Or were in life made clear}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  but misunderstood}{\insrsid10975332 
+\par }\pard\plain \s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+To listen at last to what Gwinion had asked
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 What are my secrets never to be revealed?
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+To dead sons and fathers, I told you: 
+\par \loch\af0\dbch\af13\hich\f0 \lquote \loch\f0 These things are sealed\hich\f0 \rquote 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Who shall can go into some dead trail beyond the rocky pass}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Where phantoms stare and ghosts in whisperi\hich\af0\dbch\af13\loch\f0 ng leafs}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Or Autumns other glade prepares to make the hazard plain.
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+At the frozen edge of the world you stand in need}{\insrsid11360954 \hich\af0\dbch\af13\loch\f0  and blindly seek}{\insrsid10975332 
+\par \hich\af0\dbch\af13\loch\f0 Your Gods have let you down 
+\par \hich\af0\dbch\af13\loch\f0 See here in my Castle \hich\af0\dbch\af13\loch\f0 walls 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Prepare to meet your past, the face of him who murdere\hich\af0\dbch\af13\loch\f0 d your father}{\insrsid11360954 \hich\af0\dbch\af13\loch\f0 s}{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 And }{\insrsid11360954 \hich\af0\dbch\af13\loch\f0 their seed O Aggamenon speak}{\insrsid10975332 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10503986 \hich\af0\dbch\af13\loch\f0 Agamemnon}{\insrsid10975332 
+\par }{\f1\fs20\insrsid10503986 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+It is true I was once a great king 
+\par \hich\af0\dbch\af13\loch\f0 Though little did I think of her 
+\par \hich\af0\dbch\af13\loch\f0 Though from the suckling tit I weened 
+\par \hich\af0\dbch\af13\loch\f0 From lusting shadows of my spent desire I sowed my seed
+\par \hich\af0\dbch\af13\loch\f0 Yet in this bloody pitch did mak\hich\af0\dbch\af13\loch\f0 e 
+\par \hich\af0\dbch\af13\loch\f0 From my priapus: life did give and with my sword did take 
+\par \hich\af0\dbch\af13\loch\f0 But all my peregrinations were in vain
+\par \hich\af0\dbch\af13\loch\f0 Since no earthly love did I ever gain
+\par \hich\af0\dbch\af13\loch\f0 My way was to take, a common simple ploy 
+\par \hich\af0\dbch\af13\loch\f0 A common thief a vulgur boy
+\par \hich\af0\dbch\af13\loch\f0 Would have done my self instead
+\par \hich\af0\dbch\af13\loch\f0 Now here I wait 
+\par \hich\af0\dbch\af13\loch\f0 Upon another artific}{\insrsid3817574 \hich\af0\dbch\af13\loch\f0 ial}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  shelf
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid11360954 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid11360954 \hich\af0\dbch\af13\loch\f0 She 
+
+\par \hich\af0\dbch\af13\loch\f0 Enough enough !
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid11360954 
+\par }{\i\insrsid11360954\charrsid11360954 \hich\af0\dbch\af13\loch\f0 Agamenon fading away into oblivion}{\i\f1\fs20\insrsid11360954\charrsid11360954 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\i\insrsid11360954\charrsid11360954 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I ran toward a broken dream 
+\par \hich\af0\dbch\af13\loch\f0 Felling only the glory of the hour 
+\par \hich\af0\dbch\af13\loch\f0 I simply did not prepare 
+\par \hich\af0\dbch\af13\loch\f0 Though propitiate to this god and that
+\par \hich\af0\dbch\af13\loch\f0 I raped the world 
+\par \hich\af0\dbch\af13\loch\f0 It was tit for tat.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }{\insrsid11360954\charrsid11360954 \hich\af0\dbch\af13\loch\f0 Calliope}{\insrsid10975332\charrsid11360954 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+This shall never end this treachery 
+\par \hich\af0\dbch\af13\loch\f0 Who makes away with all your dreams
+\par \hich\af0\dbch\af13\loch\f0 All is self made misery \hich\f0 \lquote \loch\f0 cept for the surviving few
+\par \hich\af0\dbch\af13\loch\f0 Who merely contemplate the scars left over from their deadly scheme\hich\f0 \rquote \loch\f0 s
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+So I call upon some miraculous child and murder him to writ this down
+\par \hich\af0\dbch\af13\loch\f0 To keep you in the living word.
+\par \hich\af0\dbch\af13\loch\f0 This is mine rite and mine alone.
+\par \hich\af0\dbch\af13\loch\f0 If blood shall run across the temple floor
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Let us not forget the sacrilegious sacrifice }{\insrsid10503986 \hich\af0\dbch\af13\loch\f0 o}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 f all histories }{\insrsid10503986 \hich\af0\dbch\af13\loch\f0 miserable }{\insrsid10975332 
+\hich\af0\dbch\af13\loch\f0 store}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I shall never let man forget.
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Or Menesme and Nemesis will rule a far harder vice
+\par \hich\af0\dbch\af13\loch\f0 You may avoid}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  Agendath}{\insrsid10975332 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid11360954 \hich\af0\dbch\af13\loch\f0 
+For Aeons }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 the selfless senseless 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid10503986 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Shameful murders of the protectors of life }{\insrsid10503986 \hich\af0\dbch\af13\loch\f0 
+send me
+\par \hich\af0\dbch\af13\loch\f0 Scribbles of their acts telestically}{\insrsid10975332 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10503986 \hich\af0\dbch\af13\loch\f0 Which compel\hich\af0\dbch\af13\loch\f0  by what is me
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid10503986 {\insrsid10503986 \hich\af0\dbch\af13\loch\f0 To }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 keep the}{\insrsid10503986 
+\hich\af0\dbch\af13\loch\f0 ir}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  misery of the}{\insrsid10503986 \hich\af0\dbch\af13\loch\f0 ir stinking }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 past }{\insrsid10503986 
+\par \hich\af0\dbch\af13\loch\f0 Their }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Unctions do stink to the end of the stars
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 They}{\insrsid11360954 \hich\af0\dbch\af13\loch\f0  smell so much}{\insrsid10975332 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid11360954 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I keep }{\insrsid11360954 \hich\af0\dbch\af13\loch\f0 all }{\insrsid10975332 
+\hich\af0\dbch\af13\loch\f0 their stories in Sealed Jars
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10503986\charrsid10503986 
+\hich\af0\dbch\af13\loch\f0 Sometimes}{\f1\fs20\insrsid10503986 \hich\af1\dbch\af13\loch\f1  I }{\insrsid10503986 \hich\af0\dbch\af13\loch\f0 bitterly laugh}{\f1\fs20\insrsid10503986 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Why should it matter much to me or even be my concern.
+\par \hich\af0\dbch\af13\loch\f0 Let it \hich\af0\dbch\af13\loch\f0 be, I have more time to burn
+\par \hich\af0\dbch\af13\loch\f0 What is it to me that
+\par \hich\af0\dbch\af13\loch\f0 Himself is now the policeman of the stars
+\par \hich\af0\dbch\af13\loch\f0 The unborn are already sold and made chaste ready 
+\par \hich\af0\dbch\af13\loch\f0 For a passionless age
+\par \hich\af0\dbch\af13\loch\f0 New pauwkery prevails }{\insrsid12978474 \hich\af0\dbch\af13\loch\f0 or}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  marr\hich\f0 \rquote \loch\f0 s.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 But I alone control the Sun who spits the deadly flame o\hich\af0\dbch\af13\loch\f0 f life in death
+\par \hich\af0\dbch\af13\loch\f0 Into the earthly children\hich\f0 \rquote \loch\f0 s eyes 
+\par \hich\af0\dbch\af13\loch\f0 Fill the future without hope into the gloomy burning skies
+\par \hich\af0\dbch\af13\loch\f0 Now machines shall rule the barren plain 
+\par }\pard\plain \s17\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10503986 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+By his command}{\insrsid10503986 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Invisible chambers of fire 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+From strange Prometheus shall gain 
+\par \hich\af0\dbch\af13\loch\f0 Dominion over my earth
+\par \hich\af0\dbch\af13\loch\f0 And scorch the living sands of time
+\par \hich\af0\dbch\af13\loch\f0 My Helios shall
+\par \hich\af0\dbch\af13\loch\f0 Burn}{\insrsid10503986 \hich\af0\dbch\af13\loch\f0  eyes and faces of children
+\par \hich\af0\dbch\af13\loch\f0 S}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 till he shall not understand.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid2783915 \b\i\fs28\lang1033\langfe2052\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\b0\i0\f0\fs24\insrsid10975332\charrsid15141870 \hich\af0\dbch\af13\loch\f0 Mysterion replies
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Great Queen Calliope who holds the seal of the living word }{\insrsid15141870 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Let me go back and so make form to worlds of your dreams skies }{\insrsid15141870 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 So you can rule in silence in the winter of your eyes.
+\par \hich\af0\dbch\af13\loch\f0 To gain the ruin of the world and strike it back to life}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid15141870 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Make this thy everlasting chore and scorn foolish man no more.
+\par }\pard\plain \s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid2783915 \b\i\fs28\lang1033\langfe2052\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\b0\i0\f0\fs24\insrsid10975332\charrsid15141870 \hich\af0\dbch\af13\loch\f0 Calliope
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 There I
+\hich\af0\dbch\af13\loch\f0  do not exist in word thought or deed 
+\par \hich\af0\dbch\af13\loch\f0 My promises have all been placed into a sterile seed
+\par \hich\af0\dbch\af13\loch\f0 Forgot by the hubris of an intellectual soul 
+\par \hich\af0\dbch\af13\loch\f0 No more in your wooden world of hypocrites and fools
+\par \hich\af0\dbch\af13\loch\f0 You shall not return: to see the faces of your enemy
+\par \hich\af0\dbch\af13\loch\f0 All shall ar\hich\af0\dbch\af13\loch\f0 rive with their sorry stories just wait and see
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid2783915 \b\i\fs28\lang1033\langfe2052\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\b0\i0\f0\fs24\insrsid10975332\charrsid15141870 \hich\af0\dbch\af13\loch\f0 Mysterion
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+All were equal though they shamed me for my love
+\par \hich\af0\dbch\af13\loch\f0 I was the thought of the Mother 
+\par \hich\af0\dbch\af13\loch\f0 Rebel progeny against the Father and his way
+\par \hich\af0\dbch\af13\loch\f0 Of dominion and conquest \hich\f0 \lquote \loch\f0 gainst the tide of nature
+\par \hich\af0\dbch\af13\loch\f0 He NOW rides 
+\par \hich\af0\dbch\af13\loch\f0 Besides how could I once tell?
+\par \hich\af0\dbch\af13\loch\f0 Merely observe those who have fell
+\par \hich\af0\dbch\af13\loch\f0 Those who never came back
+\par \hich\af0\dbch\af13\loch\f0 All that I writ was done for that alone 
+\par \hich\af0\dbch\af13\loch\f0 To see was not enough to just 
+\par \hich\af0\dbch\af13\loch\f0 Speak in that other place 
+\par \hich\af0\dbch\af13\loch\f0 Thou they did not hear 
+\par \hich\af0\dbch\af13\loch\f0 So I ran into your hills
+\par \hich\af0\dbch\af13\loch\f0 But soon they ca\hich\af0\dbch\af13\loch\f0 me 
+\par \hich\af0\dbch\af13\loch\f0 Saw your domain of the stars.
+\par \hich\af0\dbch\af13\loch\f0 Before the sooty skies
+\par \hich\af0\dbch\af13\loch\f0 I could do but little more than tell
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Calliope
+\par \hich\af0\dbch\af13\loch\f0 You are not hear for that
+\par \hich\af0\dbch\af13\loch\f0 Where is }{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 your palimpsest scribbles for my amusement
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid1670532 {\insrsid1670532 \hich\af0\dbch\af13\loch\f0 It was for this alone }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 by which }{\insrsid1670532 
+\hich\af0\dbch\af13\loch\f0 she}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  bargained for your
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Life}{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 :}{\insrsid10975332 
+\hich\af0\dbch\af13\loch\f0  saved you from\hich\af0\dbch\af13\loch\f0  your brother}{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 s.}{\insrsid10975332 
+\par }{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 Sheltered you from the Father
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 You should never have been born,}{\insrsid10975332\charrsid4470730 
+\par }{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 Until she prayed to me
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid1670532 {\insrsid1670532 \hich\af0\dbch\af13\loch\f0 Not to make y}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 our life was not an Olympian struggle
+
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid1670532 \hich\af0\dbch\af13\loch\f0 But a poet
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Speak of me one thing
+\par \hich\af0\dbch\af13\loch\f0 Did\hich\f0 \rquote \loch\f0 st thou love your mother?
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid2783915 \b\i\fs28\lang1033\langfe2052\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\b0\i0\f0\fs24\insrsid10975332\charrsid5440804 \hich\af0\dbch\af13\loch\f0 Mysterion
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+I must once: though in memory of faded blossoms summer day}{\insrsid1670532 \hich\af0\dbch\af13\loch\f0  of past light}{\insrsid10975332 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid1670532 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Her pies and tarts confuse}{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 d}{\insrsid10975332 
+\hich\af0\dbch\af13\loch\f0  me by my wanton way
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I was Mysterion the poet wild who raged across the woods and rivers wide
+\par \hich\af0\dbch\af13\loch\f0 Walked barefoot on your sands or tide
+\par \hich\af0\dbch\af13\loch\f0 Who left the Mother\hich\f0 \rquote \loch\f0 s si\hich\af0\dbch\af13\loch\f0 de too soon
+\par \hich\af0\dbch\af13\loch\f0 \hich\f0 I must \'85
+\par \hich\af0\dbch\af13\loch\f0 \hich\f0 No I shall not: it is too late\'85\loch\f0  to win a long lost boon
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+In earnestness I loved my mother more than I would tell}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I spoke and loved late to her when }{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 All gladed times left faded paint on even the lovliest flowers }{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 With fierce regret so \hich\af0\dbch\af13\loch\f0 was our time in later times }{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Shared too late: the honest hours.
+\par }\pard\plain \s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid2783915 \b\i\fs28\lang1033\langfe2052\loch\af1\hich\af1\dbch\af13\cgrid\langnp1033\langfenp2052 {
+\b0\i0\f0\fs24\insrsid10975332\charrsid5440804 \hich\af0\dbch\af13\loch\f0 Calliope
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+I weep for you Mysterion who found so untimely mothers love
+\par \hich\af0\dbch\af13\loch\f0 Need not confess I am no priest
+\par \hich\af0\dbch\af13\loch\f0 Though your sweet mother is reclined, she rests with my white Queen
+\par \hich\af0\dbch\af13\loch\f0 Beyond the brightness o\hich\af0\dbch\af13\loch\f0 f the day as twilight stars do light her way
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Mysterion  weep not for her I heard your voice but I }{\insrsid2783915 \hich\af0\dbch\af13\loch\f0 c}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 annot care 
+\par \hich\af0\dbch\af13\loch\f0 Though acts and deeds of all, tiresome in the least
+\par \hich\af0\dbch\af13\loch\f0 Though few they were, yours words spoke some love for me?
+\par \hich\af0\dbch\af13\loch\f0 So lovers do I compel, so too am I compelled 
+\par \hich\af0\dbch\af13\loch\f0 To writ in death this story of the heart by you: who failed
+\par \hich\af0\dbch\af13\loch\f0 In life to impart
+\par \hich\af0\dbch\af13\loch\f0 Now you may call upon the past and lay bare 
+\par \hich\af0\dbch\af13\loch\f0 All that irked your voice and once shook only the thunder in your heart.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Call from the\hich\af0\dbch\af13\loch\f0  distant past those with whom you wish to task about their}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Intellectual Infidelity and worse of all hypocrisy.}{
+\insrsid2783915 \hich\af0\dbch\af13\loch\f0   }{\insrsid1720108 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Who despised your flame of words you wrote.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }{\insrsid5315833\charrsid5315833 \hich\af0\dbch\af13\loch\f0 Mysterion}{\insrsid10975332\charrsid5315833 
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid5315833 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid5315833 
+\par \hich\af0\dbch\af13\loch\f0 Yet I did not know. 
+\par \hich\af0\dbch\af13\loch\f0 For I felt no shame.
+\par }\pard \s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5315833 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 My Queen all my siblings in their petty infam\hich\af0\dbch\af13\loch\f0 y 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 All of wooden soul who could, \hich\f0 \lquote \loch\f0 
+cept one wrought their petty fury upon my mother.
+\par \hich\af0\dbch\af13\loch\f0 Incest and insolence was abroad in corridors and shame was all around me.
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid1670532 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Shame of themselves and of who they were was leas}{\insrsid1670532 \hich\af0\dbch\af13\loch\f0 h}
+{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 ed against her.
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 For this there was no reason and yet their blows did fall.
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid13925675 {\insrsid13925675 \hich\af0\dbch\af13\loch\f0 Yet I did not know. 
+\par \hich\af0\dbch\af13\loch\f0 For I felt no shame
+\par }\pard \s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13925675 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Yet I did not know.
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\f1\fs20\insrsid10975332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid13925675 \hich\af0\dbch\af13\loch\f0 Calliope}{
+\insrsid2783915 
+\par }{\insrsid10975332\charrsid2783915 \hich\af0\dbch\af13\loch\f0 Incest?}{\fs20\insrsid10975332\charrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid10975332\charrsid2783915 
+\par }{\insrsid2783915 
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Mysterion.
+\par }{\insrsid13925675 \hich\af0\dbch\af13\loch\f0 My sisters}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 were raped by the elder half brother of my mothers first marriage to King Velosa.
+\par \hich\af0\dbch\af13\loch\f0 But that }{\insrsid2783915 \hich\af0\dbch\af13\loch\f0 marriage }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 was rape as well. My \hich\f0 \lquote }{\i\insrsid10975332\charrsid1720108 \hich\af0\dbch\af13\loch\f0 uncle
+\hich\f0 \rquote }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  was a brute. Though I never met him since my mother forbade it
+\par \hich\af0\dbch\af13\loch\f0 My }{\insrsid2783915 \hich\af0\dbch\af13\loch\f0 mother left Velosa and }{\insrsid13652047 \hich\af0\dbch\af13\loch\f0 found happiness }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+as courtesan to my father, she could not marry him}{\insrsid1720108 \hich\af0\dbch\af13\loch\f0 . }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 Velosa refused to let her go.}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0  }{\insrsid2257087 
+\hich\af0\dbch\af13\loch\f0 T}{\insrsid2783915 \hich\af0\dbch\af13\loch\f0 he mean spirited protestant mi\hich\af0\dbch\af13\loch\f0 nd of Velosa was despicable.}{\insrsid10975332 
+\par \hich\af0\dbch\af13\loch\f0 Even worse }{\insrsid2257087 \loch\af0\dbch\af13\hich\f0 \'85\loch\f0  
+\par \hich\af0\dbch\af13\loch\f0  The Catholic wife of my father forbade divorce like her pope}{\insrsid10975332 
+\par \hich\af0\dbch\af13\loch\f0 My father too was a prisoner of his lusting since his wife Puditia never broke the vows of the marriage and stayed married to him for the rest of her l\hich\af0\dbch\af13\loch\f0 ife.
+\par \hich\af0\dbch\af13\loch\f0 My half brothers I never met from }{\insrsid1139118 \hich\af0\dbch\af13\loch\f0 either of the families}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  and its wars over woman and land.
+\par }{\insrsid2257087 \hich\af0\dbch\af13\loch\f0 I was too young
+\par }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 I was witness to the battle of Olychis where }{\insrsid1139118 \hich\af0\dbch\af13\loch\f0 all}{\insrsid10975332 \hich\af0\dbch\af13\loch\f0  lost their lives including most of my half brothers \hich\f0 
+\lquote \loch\f0 cept this one who raped.
+\par \hich\af0\dbch\af13\loch\f0 Davidos fought ag\hich\af0\dbch\af13\loch\f0 ainst my fathers sons at this battle, though he was a coward and nearly lost his life. I wish he had.
+\par \hich\af0\dbch\af13\loch\f0 Or if I was more than a murderer I should have wrung his bloody neck.
+\par }\pard\plain \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2783915 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 C}{
+\insrsid2767230 \hich\af0\dbch\af13\loch\f0 alliope}{\insrsid10975332 
+\par }\pard \s15\ql \fi-283\li283\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin283\itap0\pararsid2257087 {\insrsid2257087 \hich\af0\dbch\af13\loch\f0 He is }{\insrsid10975332 \hich\af0\dbch\af13\loch\f0 dead like you?}{\insrsid2257087 
+\hich\af0\dbch\af13\loch\f0  You didn\hich\f0 \rquote \loch\f0 t have to.}{\insrsid10975332 
+\par }{\insrsid2257087 \hich\af0\dbch\af13\loch\f0 In life he was scared your father\hich\f0 \rquote \hich\af0\dbch\af13\loch\f0 s sons would discover his secret.}{\insrsid10975332 
+\par }\pard\plain \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2767230 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332 \hich\af0\dbch\af13\loch\f0 
+Mysterion they feared your life that had been blown into you like a great blore}{\insrsid2767230 \hich\af0\dbch\af13\loch\f0  perhaps a demon}{\insrsid13652047 \hich\af0\dbch\af13\loch\f0  had got into you with}{\insrsid2767230 
+\hich\af0\dbch\af13\loch\f0  their ridiculous superstitions}{\insrsid13652047 \hich\af0\dbch\af13\loch\f0  about the God who must be loved.
+\par }{\insrsid2767230 \hich\af0\dbch\af13\loch\f0 Mysterion
+\par }{\insrsid10975332\charrsid2767230 \hich\af0\dbch\af13\loch\f0 I ha}{\insrsid9716611\charrsid2767230 \hich\af0\dbch\af13\loch\f0 d}{\insrsid10975332\charrsid2767230 \hich\af0\dbch\af13\loch\f0  no excuses neither for m\hich\af0\dbch\af13\loch\f0 
+yself nor d}{\insrsid9716611\charrsid2767230 \hich\af0\dbch\af13\loch\f0 id I invent them for others}{\insrsid10975332 
+\par }{\insrsid2767230 \hich\af0\dbch\af13\loch\f0 I could not know this fact so early }{\insrsid13913514 
+\par }{\insrsid2767230 \hich\af0\dbch\af13\loch\f0 I never spoke of it again. }{\insrsid2767230\charrsid2767230 
+\par }\pard \s16\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2783915 {\insrsid10975332\charrsid9716611 \hich\af0\dbch\af13\loch\f0 Instead I declare to hear they protestation s and their dance to ne\hich\f0 \rquote 
+\loch\f0 er see that this bloody blasphemy must adjure and leave some sense of reasonability.}{\insrsid10975332 
+\par }{\insrsid2767230 \hich\af0\dbch\af13\loch\f0 Call forward my dead brother}{\insrsid10820441 \hich\af0\dbch\af13\loch\f0  for I wish to ask him if he fears the Father like I once did.}{\insrsid2767230 
+\par }{\insrsid10820441 \hich\af0\dbch\af13\loch\f0 Davidos:
+\par \hich\af0\dbch\af13\loch\f0 I am here but never wish to speak to you either in life or death since your opinions
+\par \hich\af0\dbch\af13\loch\f0 Mean nothing to me.
+\par \hich\af0\dbch\af13\loch\f0 You are the usurper unrequired infant boy of basta\hich\af0\dbch\af13\loch\f0 rdy.
+\par }{\insrsid13913514 \hich\af0\dbch\af13\loch\f0 I wsa of sacred marriage of the Father born out of bastardy
+\par }{\insrsid10820441 \hich\af0\dbch\af13\loch\f0 Thought of the Mother rebel and deceiver.
+\par \hich\af0\dbch\af13\loch\f0 False words shoot from you . 
+\par \hich\af0\dbch\af13\loch\f0 No incest was ever played upon that stage 
+\par \hich\af0\dbch\af13\loch\f0 I accuse Mysterion my half brother of Falsehood.
+\par 
+\par }{\insrsid2767230 
+\par }{\insrsid2767230\charrsid9716611 
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10975332 \fs24\lang1033\langfe2052\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\insrsid10975332\charrsid9716611 
+\par }{\f1\insrsid10975332\charrsid9716611 
+\par 
+\par 
+\par 
+\par 
+\par \hich\af1\dbch\af13\loch\f1  
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10975332 {\insrsid16607433\charrsid9716611 \hich\af0\dbch\af13\loch\f0  
+\par }}
